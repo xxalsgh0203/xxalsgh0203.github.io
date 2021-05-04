@@ -1,7 +1,7 @@
 title: Minho Kim's Portfolio
-subtitle: A Portfolio Jekyll Theme Built for Developers
+subtitle: A Developing Developer
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Student of University of Houston, TX
 
 url: "https://xxalsgh0203.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -33,7 +33,7 @@ author_bio: Hi, my name is Minho Kim.
 author_email: "xxalsgh0203@gmail.com"
 author_location: United States, Texas
 author_website_url: "https://xxalsgh0203.github.io"
-typewrite-text: Currently student of University of Houston. Computer Science, Junior!
+typewrite-text: Current student of University of Houston. Computer Science, Junior!
 
 # Experiences
 author_work_experiences:
